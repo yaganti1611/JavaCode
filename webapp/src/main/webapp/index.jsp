@@ -1,4 +1,5 @@
 <h1>Hello World<h1>
+  <strong>Hello Guy's</strong>
   <script> let name =prompt('enter your name')
     let name1=name.toUpperCase()
     
