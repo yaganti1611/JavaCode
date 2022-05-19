@@ -1,5 +1,5 @@
 <h1>MinfyTech<h1>
-  <strong>Hello Guy's</strong>
+  <div>Hello Teams</div>
   <script> let name =prompt('enter your name')
     let name1=name.toUpperCase()
     
