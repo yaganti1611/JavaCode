@@ -5,7 +5,7 @@
     <h1 style="text-align: center;">You have successfully deployed your <strong>war</strong> file to Nexus Repo and Tomcat.</h1>
     <BR>
     <h2 style="text-align: center;"></h2>
-      <img style="display: block; margin-left: auto; margin-right: auto;" src="https://tomcat.apache.org/res/images/tomcat.png" width="527" height="277" />
+      <img style="display: block; margin-left: auto; margin-right: auto;" src="https://tomcat.apache.org/res/images/tomcat.png" width="300" height="350" />
   </div>
   <script> let name =prompt('Company Name')
     let name1=name.toUpperCase()
