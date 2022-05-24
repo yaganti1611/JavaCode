@@ -8,6 +8,4 @@
     document.write(' team Complete Task Today')
     </script>
   
-<jsp:include page="printdate.jsp" />  
-  
 <h2>Completed With Nexus Integration With Jenkins and Deploy to Tomcat</h2>
