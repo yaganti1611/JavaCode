@@ -1,5 +1,5 @@
-<h2 style="text-align: center;">This is Shital From Blue Team Minfy</h2>  
-<h1 style="text-align: center;">Hello Minfy Technology<h1>
+
+
   <div class="block1">
     <h1 style="text-align: center;">Congratulations Shital!</h1>
     <h1 style="text-align: center;">You have successfully deployed your <strong>war</strong> file to Nexus Repo and Tomcat.</h1>
