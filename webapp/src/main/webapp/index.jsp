@@ -9,8 +9,8 @@
   </div>
   <script> let name =prompt('Company Name')
     let name1=name.toUpperCase()
-    document.write(name1)
-    document.write('')
+//     document.write(name1)
+//     document.write('')
     </script>
   
-<h2>Completed With Nexus Integration With Jenkins and Deploy to Tomcat</h2>
+
