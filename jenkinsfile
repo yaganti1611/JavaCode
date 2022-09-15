@@ -35,7 +35,7 @@ pipeline {
         }
         stage ('Upload Artifact to Nexus') {
             steps {
-                nexusArtifactUploader artifacts: [[artifactId: 'maven-project', classifier: '', file: 'webapp/target/webapp.war', type: 'war']], credentialsId: 'Nexus', groupId: 'com.example.maven-project', nexusUrl: '18.132.118.232:8081', nexusVersion: 'nexus3', protocol: 'http', repository: 'Artifact-nexus', version: '1.0.${v}-SNAPSHOT'
+                nexusArtifactUploader artifacts: [[artifactId: 'maven-project', classifier: '', file: 'webapp/target/webapp.war', type: 'war']], credentialsId: 'Nexus', groupId: 'com.example.maven-project', nexusUrl: '18.132.118.232:8081', nexusVersion: 'nexus3', protocol: 'http', repository: 'Artifact-nexus', version: '1.0-SNAPSHOT'
             }
         }
         stage('E-mail Approval') {
