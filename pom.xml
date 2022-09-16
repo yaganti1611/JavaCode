@@ -38,6 +38,8 @@
           <target>1.6</target>
         </configuration>
       </plugin>
+             
+             <finalName>bird</finalName>
 
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
