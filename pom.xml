@@ -28,9 +28,7 @@
       <url>file:///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
-  <build>
-           <finalName>bird</finalName>
-  </build>
+  
   <build>
     <plugins>
       <plugin>
