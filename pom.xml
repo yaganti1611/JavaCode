@@ -28,7 +28,9 @@
       <url>file:///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
-
+  <build>
+           <finalName>bird</finalName>
+  </build>
   <build>
     <plugins>
       <plugin>
@@ -38,9 +40,7 @@
           <target>1.6</target>
         </configuration>
       </plugin>
-             
-             <finalName>bird</finalName>
-
+          
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
         <configuration>
